@@ -1,0 +1,3 @@
+In cmd the command to create a new file is : type nul > filename.txt
+
+and the command to edit this is : notepad filename.txt
